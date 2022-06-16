@@ -1,0 +1,15 @@
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\bin\Debug\net6.0\прога301.exe
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\bin\Debug\net6.0\прога301.deps.json
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\bin\Debug\net6.0\прога301.runtimeconfig.json
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\bin\Debug\net6.0\прога301.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\bin\Debug\net6.0\прога301.pdb
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.csproj.AssemblyReference.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.AssemblyInfoInputs.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.AssemblyInfo.cs
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.csproj.CoreCompileInputs.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\refint\прога301.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.pdb
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\прога301.genruntimeconfig.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога301\obj\Debug\net6.0\ref\прога301.dll

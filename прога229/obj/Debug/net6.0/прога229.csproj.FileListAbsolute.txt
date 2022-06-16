@@ -1,0 +1,15 @@
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\bin\Debug\net6.0\прога229.exe
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\bin\Debug\net6.0\прога229.deps.json
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\bin\Debug\net6.0\прога229.runtimeconfig.json
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\bin\Debug\net6.0\прога229.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\bin\Debug\net6.0\прога229.pdb
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.csproj.AssemblyReference.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.AssemblyInfoInputs.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.AssemblyInfo.cs
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.csproj.CoreCompileInputs.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\refint\прога229.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.pdb
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\прога229.genruntimeconfig.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\прога229\obj\Debug\net6.0\ref\прога229.dll

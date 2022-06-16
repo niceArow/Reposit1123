@@ -1,0 +1,15 @@
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\bin\Debug\net6.0\300.exe
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\bin\Debug\net6.0\300.deps.json
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\bin\Debug\net6.0\300.runtimeconfig.json
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\bin\Debug\net6.0\300.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\bin\Debug\net6.0\300.pdb
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.csproj.AssemblyReference.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.AssemblyInfoInputs.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.AssemblyInfo.cs
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.csproj.CoreCompileInputs.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\refint\300.dll
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.pdb
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\300.genruntimeconfig.cache
+C:\Users\wwwno\Desktop\5 заданий УЛПР\прога\300\obj\Debug\net6.0\ref\300.dll
